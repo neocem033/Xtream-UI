@@ -1,7 +1,7 @@
 # Xtream-UI
 # Install Xtream UI for Ubuntu 18.04 LTS 
 # 1-Install Main Server
-apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; wget https://github.com/neocem033/Xtream-UI/blob/master/install.py ; sudo python install.py
+apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; wget https://prolifesoft.com/xtreamui/install.py ; sudo python install.py
 
 
 # 2-Update XtreamUI
